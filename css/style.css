@@ -1,0 +1,28 @@
+.wrapper{
+	background-color:#671DB5;
+	color: red;
+
+}
+.wrapper1{
+
+	background-color:#DFFE2D;
+	display: inline;
+	
+
+}
+.continer{
+	width: 500px;
+	background-color: white;
+}
+.section{
+	width: 500px;
+	color: white;
+}
+.footer{
+	overflow: hidden;
+	background-color: black;
+	min-width: 200px;
+}
+
+
+
